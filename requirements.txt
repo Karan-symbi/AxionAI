@@ -2,6 +2,7 @@ langchain-community
 langchain
 pypdf
 langchain-postgres
+psycopg2
 langchain-core 
 langchain-cohere 
 sqlalchemy

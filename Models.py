@@ -35,8 +35,4 @@ class Model:
         result = self.json(response.text)
         return result
 
-parser = Parser()
-result = parser.parse(r"D:\Download\Hackathons\AIBoomi\AxionAI\resume\example1.pdf")
-content = result["content"][0]
-model = Model()
-print(model.structure(content))
+

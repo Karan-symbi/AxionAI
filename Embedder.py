@@ -4,6 +4,9 @@ from Parser import Parser
 from dotenv import load_dotenv
 from langchain_postgres import PGVector
 from langchain_core.documents import Document
+from DB import DB
+import os
+import json
 
 load_dotenv()
 class Embed:
