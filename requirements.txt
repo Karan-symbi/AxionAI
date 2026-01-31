@@ -1,12 +1,5 @@
-langchain-community
-langchain
-pypdf
-langchain-postgres
-psycopg2
-langchain-core 
-langchain-cohere 
-sqlalchemy
+flask
 python-dotenv
-google
+numpy
+langchain
 langchain-google-genai
-pandas
