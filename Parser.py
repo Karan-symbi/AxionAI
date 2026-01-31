@@ -15,7 +15,3 @@ class Parser():
             "content": content,
             "no_of_pages": no_of_pages
         }
-
-
-parser = Parser()
-print(parser.parse("D:\Download\Hackathons\AIBoomi\example.pdf"))
