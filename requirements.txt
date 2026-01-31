@@ -6,3 +6,5 @@ langchain-core
 langchain-cohere 
 sqlalchemy
 python-dotenv
+google
+langchain-google-genai

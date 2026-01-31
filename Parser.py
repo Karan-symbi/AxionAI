@@ -1,4 +1,5 @@
 from langchain_community.document_loaders import PyPDFLoader
+import re
 
 class Parser():
     def __init__(self):
@@ -15,3 +16,4 @@ class Parser():
             "content": content,
             "no_of_pages": no_of_pages
         }
+
