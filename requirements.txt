@@ -9,3 +9,4 @@ sqlalchemy
 python-dotenv
 google
 langchain-google-genai
+pandas
