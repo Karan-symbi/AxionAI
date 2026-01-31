@@ -42,7 +42,7 @@ class Schedule:
         self.df["Slot"] = slots
 
 
-    def schedule(self):
+    def send_emails(self):
         names = self.df["Name"]
         emails = self.df["Email"]
         slots = self.df["Slot"]
